@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Aakrit Adhikari</h1>
 
 <p align="center">
-  <b>Backend Developer · Python Enthusiast</b><br />
-  Building APIs and web applications with Node.js and Python.
+  <b>Backend Development · Data</b><br />
+  Working with Node.js, Next.js, and FastAPI.
 </p>
 
 <p align="center">
@@ -15,12 +15,9 @@
 
 ### A little about me
 
-- 💻 I work on backend development with **Node.js, PostgreSQL, Prisma, and TypeORM**.
-- 🐍 I developed my **Python** skills by building projects with **FastAPI and Django**.
-- ⚛️ I also work with **React and Next.js** to build web applications.
-- 🎓 I've completed **data science certifications** and enjoy putting what I learn into projects.
-- 🌱 I have foundational knowledge of **SQL, Docker, and deployment**, and I'm continuing to build on it.
-- 💬 Happy to talk about **Python, backend development, and APIs**.
+- 💻 I work with **Node.js and Next.js**.
+- 🐍 I also have experience with **FastAPI**.
+- 🌱 I'm interested in **backend development and data-related fields**.
 
 <br clear="both" />
 
